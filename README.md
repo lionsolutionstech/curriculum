@@ -1,2 +1,2 @@
-# curriculum
+# Curriculum Template
 A template for curriculums.
